@@ -13,7 +13,6 @@ running = True
 
 k = 1 if width == 1920 else 1.4055636896
 
-
 def description_text_blit(x, y, text, name):
     x = x // k
     y = y // k
